@@ -1,8 +1,8 @@
 {
-	"name": "Discord-Bot-Maker-Bot",
-	"author": "Robert Borghese",
+	"name": "vogel",
+	"author": "Groover",
 	"main": "bot.js",
-	"version": "1.2.9",
+	"version": "1.0.0",
 	"dependencies": {
 		"discord.js": "^11.2.0",
 		"fstorm": "^0.1.3",
